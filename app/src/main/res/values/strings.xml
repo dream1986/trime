@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (C) 2015-present, osfans
+ * waxaca@163.com https://github.com/osfans
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+-->
+<resources xmlns:xliff="urn:oasis:names:en:xliff:document:1.2">
+    <!-- Input Method Platform Tittle  -->
+    <string name="ime_name">Trime</string>
+    <!-- Preference settings -->
+    <string name="pref_help">Help</string>
+    <string name="pref_wiki">Wiki</string>
+    <string name="pref_issues">Report Issues</string>
+    <string name="pref_trime_qq">Trime QQ Group</string>
+    <string name="pref_trime_qq2">Trime QQ Group 2</string>
+    <string name="pref_rime_qq">Rime QQ Group</string>
+    <string name="pref_market">Google Play</string>
+    <string name="pref_coolmarket">Cool Market</string>
+    <string name="pref_donate">Donate</string>
+    <string name="pref_donate_summary">Use Alipay to support TRIME and PRIME</string>
+    <string name="pref_about">About</string>
+    <string name="pref_librime_ver">RIME Version</string>
+    <string name="pref_opencc_ver">OpenCC Version</string>
+    <string name="pref_changelog">Change Log</string>
+    <string name="pref_licensing">License</string>
+    <string name="pref_credits">Credits</string>
+    <string name="pref_pime">Win10 PRIME Platform</string>
+    <string name="pref_privacy">Privacy Policy</string>
+    <string name="pref_input">Input</string>
+    <string name="pref_enable">Enable</string>
+    <string name="pref_enable_summary">Enable TRIME</string>
+    <string name="pref_select">Change Keyboard</string>
+    <string name="pref_select_summary">Select TRIME</string>
+    <string name="pref_themes">Themes</string>
+    <string name="pref_themes_summary">Select Desired Theme</string>
+    <string name="pref_themes_name_tongwenfeng">Tongwenfeng</string>
+    <string name="pref_themes_name_trime">Default</string>
+    <string name="pref_schemas">Schemas</string>
+    <string name="pref_schemas_summary">Select Installed Schema</string>
+    <string name="pref_colors">Colors</string>
+    <string name="pref_colors_summary">Select Desired Color for Keyboard</string>
+    <string name="pref_reset">Reset</string>
+    <string name="pref_reset_summary">Use Default Settings to Replace the contents in shared directory</string>
+    <string name="pref_keyboard">Keyboard</string>
+    <string name="key_sound">Sound on keypress</string>
+    <string name="key_sound_volume">Volume on keypress</string>
+    <string name="key_vibrate">Vibrate on keypress</string>
+    <string name="key_vibrate_duration">Vibration length</string>
+    <string name="key_vibrate_amplitude">Vibration amplitude</string>
+    <string name="key_vibrate_duration_unit">ms</string>
+    <string name="speak_key">Voice on keypress</string>
+    <string name="speak_commit">Voice on commit</string>
+    <string name="longpress_timeout">Key long press delay</string>
+    <string name="repeat_interval">Key repeat interval</string>
+    <string name="show_switches">Show switches in candidate bar</string>
+    <string name="show_preview">Popup on keypress</string>
+    <string name="show_window">Show floating window when composing</string>
+    <string name="inline_preedit">Composing text in editor</string>
+    <string-array name="inline_entries">
+        <item>Preview</item>
+        <item>Composition</item>
+        <item>Input</item>
+        <item>None</item>
+    </string-array>
+    <string name="soft_cursor">Use soft cursor(^) in composition</string>
+    <string name="pref_deploy">Deploy</string>
+    <string name="pref_deploy_summary">Gotta Deploy after Modifying Settings </string>
+    <string name="pref_sync">Synchronize</string>
+    <string name="pref_sync_summary">Synchronize User Dictionary to sync directory</string>
+    <string name="reset_success">Reset Succeeded!</string>
+    <string name="reset_failure">Reset Failed!</string>
+    <string name="deploy_progress">Deploying…</string>
+    <string name="sync_progress">Syncing…</string>
+    <string name="themes_progress">Applying theme…</string>
+    <string name="schemas_progress">Loading schemas…</string>
+    <string name="set_ime">Preferences</string>
+    <string name="no_schemas">Put default.yaml and schema files into user directory!</string>
+    <string name="other_ime">Other IMEs</string>
+    <string name="pref_ui">Night Mode</string>
+    <string name="pref_other">Others</string>
+    <string name="pref_notification_icon">Show icon in notification bar</string>
+    <string name="pref_destroy_on_quit">Free memory on quit</string>
+    <string name="shared_data_dir">Shared directory</string>
+    <string name="user_data_dir">User directory</string>
+    <string name="pref_sync_bg">Synchronize background</string>
+    <string name="pref_sync_bg_success">Last background synchronized successfully at %s</string>
+    <string name="pref_sync_bg_failure">Last background synchronized failed at %s</string>
+    <string name="pref_sync_bg_never">Never synchronized background</string>
+    <string name="pref_sync_bg_tip">Click to enable</string>
+</resources>
